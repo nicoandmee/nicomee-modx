@@ -31,7 +31,7 @@ params:
   DisableLanguageSwitch: true
   TocOpen: true
   TocSide: right
-  EnableInstantClick: false
+  EnableInstantClick: true
   EnableImageZoom: true
   ShowShareButtons: true
   ShareButtons:
@@ -41,7 +41,7 @@ params:
   ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
-  Email: hello@example.com
+  Email: nico@nico.omg.lol
 
   socialIcons:
   - name: github-simple
