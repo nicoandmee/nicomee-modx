@@ -1,23 +1,31 @@
-title: PaperModX Example Site
-baseURL: "https://reorx.github.io/papermodx-example/"
+title: nicomee
+baseURL: "https://nicomee.com/"
 theme: PaperModX
 
 enableRobotsTXT: true
-enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: false
 
 params:
   description: "PaperModX Example Site description"
   author: Reorx
   images:
-    - cover.png
+  - cover.png
   favicon: favicon.ico
   #logo:
   #  icon: images/logo.svg
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
   mainSections:
-    - posts
-    - notes
+  - posts
+  - notes
 
   # theme params
   DisableLanguageSwitch: true
@@ -27,8 +35,8 @@ params:
   EnableImageZoom: true
   ShowShareButtons: true
   ShareButtons:
-    - twitter
-    - telegram
+  - twitter
+  - telegram
   ShowReadingTime: true
   ShowWordCount: true
   ShowCodeCopyButtons: true
@@ -36,16 +44,16 @@ params:
   Email: hello@example.com
 
   socialIcons:
-    - name: github-simple
-      url: "https://github.com/reorx"
-    - name: twitter-simple
-      url: "https://twitter.com/novoreorx"
-    - name: telegram-simple
-      url: "https://t.me/reorx_share"
-    - name: rss-simple
-      url: "feed.xml"
-    - name: gmail
-      url: email
+  - name: github-simple
+    url: "https://github.com/reorx"
+  - name: twitter-simple
+    url: "https://twitter.com/novoreorx"
+  - name: telegram-simple
+    url: "https://t.me/reorx_share"
+  - name: rss-simple
+    url: "feed.xml"
+  - name: gmail
+    url: email
 
   socialAccounts:
     twitter:
@@ -64,18 +72,18 @@ params:
 
       To see examples of different contents, head to [examples tag](tags/example).
 
-  #commentSystems:
-  #  disqus:
-  #    shortname: reorx
-  #  remark42:
-  #    url: https://remark42.reorx.com
-  #    site: reorx.github.io
-  #  telegramWidget:
-  #    channel: reorx_share
-  #    accentColor: "9077e1"
-  #    limit: 20
-  #defaultCommentSystems:
-  #  remark42: true
+    #commentSystems:
+    #  disqus:
+    #    shortname: reorx
+    #  remark42:
+    #    url: https://remark42.reorx.com
+    #    site: reorx.github.io
+    #  telegramWidget:
+    #    channel: reorx_share
+    #    accentColor: "9077e1"
+    #    limit: 20
+    #defaultCommentSystems:
+    #  remark42: true
 
 permalinks:
   notes: /:section/:year/:month/:slugorfilename
@@ -88,18 +96,18 @@ outputFormats:
 
 menu:
   main:
-    - name: Posts
-      url: /posts/
-      weight: 1
-    - name: Notes
-      url: /notes/
-      weight: 2
-    - name: Newsletter
-      url: /newsletter/
-      weight: 3
-    - name: Archives
-      url: /archives/
-      weight: 4
+  - name: Posts
+    url: /posts/
+    weight: 1
+  - name: Notes
+    url: /notes/
+    weight: 2
+  - name: Newsletter
+    url: /newsletter/
+    weight: 3
+  - name: Archives
+    url: /archives/
+    weight: 4
 
 languages:
   en:
