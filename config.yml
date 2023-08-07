@@ -4,18 +4,18 @@ theme: PaperModX
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
+buildFuture: true
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-XZX552MV7R
 
 minify:
   disableXML: true
   minifyOutput: false
 
 params:
-  description: "PaperModX Example Site description"
-  author: Reorx
+  description: "nicomee.com"
+  author: nico
   images:
   - cover.png
   favicon: favicon.ico
@@ -45,11 +45,11 @@ params:
 
   socialIcons:
   - name: github-simple
-    url: "https://github.com/reorx"
+    url: "https://github.com/nicoandmee"
   - name: twitter-simple
-    url: "https://twitter.com/novoreorx"
+    url: "https://twitter.com/nicoandmee"
   - name: telegram-simple
-    url: "https://t.me/reorx_share"
+    url: "https://t.me/radiumchemist"
   - name: rss-simple
     url: "feed.xml"
   - name: gmail
@@ -57,7 +57,7 @@ params:
 
   socialAccounts:
     twitter:
-      username: novoreorx
+      username: nicoandmee
 
   homeInfoParams:
     Title: "PaperModX"
