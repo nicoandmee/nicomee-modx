@@ -25,14 +25,14 @@ params:
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
   mainSections:
-  - posts
-  - notes
+  - blog
+  - essays
 
   # theme params
   DisableLanguageSwitch: true
   TocOpen: true
   TocSide: right
-  EnableInstantClick: true
+  EnableInstantClick: false
   EnableImageZoom: true
   ShowShareButtons: true
   ShareButtons:
@@ -75,15 +75,6 @@ params:
     url: https://someonegao.com/
     description: Blogger / Podcaster / Father of 2 sons
     favicon: https://cdn.hashnode.com/res/hashnode/image/upload/v1650687751798/psTFDHSfP.png
-  - name: Shyrism
-    url: https://shyrz.me/
-    description: Smile in cry, write in bytes.
-  - name: Eric’s Blog
-    url: https://wsdjeg.net/
-  - name: 程序员的喵
-    description: Coding and writing, don't Panic
-    url: https://catcoding.me/
-    favicon: https://catcoding.me//css/images/favicon.ico
 
   socialAccounts:
     twitter:

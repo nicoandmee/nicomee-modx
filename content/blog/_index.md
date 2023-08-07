@@ -1,5 +1,5 @@
 ---
 title: Blog
-description: 博客长文
+description: musings
 archivesSlug: archives
 ---
