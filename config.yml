@@ -1,6 +1,7 @@
-title: nicomee
+title: Nico's Forge
 baseURL: "https://nicomee.com/"
 theme: PaperModX
+timeZone: America/Denver
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,8 +20,8 @@ params:
   images:
   - cover.png
   favicon: favicon.ico
-  #logo:
-  #  icon: images/logo.svg
+  logo:
+    icon: images/forge-v2-compat.svg
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
   mainSections:
@@ -84,18 +85,14 @@ params:
 
       To see examples of different contents, head to [examples tag](tags/example).
 
-    #commentSystems:
-    #  disqus:
-    #    shortname: reorx
-    #  remark42:
-    #    url: https://remark42.reorx.com
-    #    site: reorx.github.io
-    #  telegramWidget:
-    #    channel: reorx_share
-    #    accentColor: "9077e1"
-    #    limit: 20
-    #defaultCommentSystems:
-    #  remark42: true
+    commentSystems:
+      disqus:
+        shortname: nicomee
+      remark42:
+        url: https://remark42.nicomee.com
+        site: nicomee.com
+    defaultCommentSystems:
+      remark42: true
 
 permalinks:
   notes: /:section/:year/:month/:slugorfilename
