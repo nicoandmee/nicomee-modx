@@ -50,6 +50,18 @@ params:
     url: "https://twitter.com/nicoandmee"
   - name: telegram-simple
     url: "https://t.me/radiumchemist"
+  - name: cv
+    url: "https://cv.nicomee.com/"
+  - name: stackoverflow
+    url: "https://stackoverflow.com/users/6934588/nico-mee"
+  - name: ycombinator
+    url: "https://news.ycombinator.com/user?id=nicomeemes"
+  - name: keybase
+    url: "https://keybase.io/nicomee"
+  - name: linkedin
+    url: "https://www.linkedin.com/in/nico-kokonas/"
+  - name: ycombinator
+    url: "https://news.ycombinator.com/user?id=nicomeemes"
   - name: rss-simple
     url: "feed.xml"
   - name: gmail
