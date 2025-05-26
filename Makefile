@@ -3,3 +3,4 @@ serve:
 
 build:
 	rm -rf public && hugo --environment production --ignoreCache
+
