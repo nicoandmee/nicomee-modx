@@ -1,5 +1,5 @@
 ---
-title:
+title: Big Companies Don't Give a Damn About You
 date: 2022-09-16T00:07:22+08:00
 draft: false
 tags:
