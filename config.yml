@@ -46,6 +46,8 @@ params:
   socialIcons:
   - name: github-simple
     url: "https://github.com/nicoandmee"
+  - name: gitlab-simple
+    url: "https://gitlab.com/nicoveritas"
   - name: twitter-simple
     url: "https://twitter.com/nicoandmee"
   - name: telegram-simple
@@ -96,7 +98,7 @@ params:
       disqus:
         shortname: nicomee
       remark42:
-        url: https://remark42.nicomee.com
+        url: https://nicomee.com
         site: nicomee.com
     defaultCommentSystems:
       remark42: true
