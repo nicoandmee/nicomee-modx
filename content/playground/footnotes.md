@@ -16,7 +16,7 @@ footnotes?
 
 最终我发现 [Vite](https://vitejs.dev/) 是最佳选择。一直以为 Vite 是 Vue 生态专属，没想到是通用的前端开发和构建工具，无论是开箱即用的流程，还是清晰的文档和 API 设计，都给我带来非常好的使用体验。[^23]
 
-[^1]: {{< tweet-ref "https://twitter.com/novoreorx/status/1544207392002682880" >}}
-[^2]: {{< tweet-ref "https://twitter.com/novoreorx/status/1557237847211798528" >}}
+[^1]: {{< tweet-ref "https://twitter.com/nicoandmee/status/1544207392002682880" >}}
+[^2]: {{< tweet-ref "https://twitter.com/nicoandmee/status/1557237847211798528" >}}
 [^22]: 参考 [Google (web.dev) 的介绍](https://web.dev/learn/pwa/progressive-web-apps/) 和 [MDN 的介绍](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
-[^23]: https://twitter.com/novoreorx/status/1548366397528764416
+[^23]: https://twitter.com/nicoandmee/status/1548366397528764416

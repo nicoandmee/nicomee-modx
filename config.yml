@@ -1,4 +1,4 @@
-title: Nico's Forge
+title: Nico Kokonas
 baseURL: "https://nicomee-modx.pages.dev/"
 theme: PaperModX
 timeZone: America/Denver
@@ -27,7 +27,6 @@ params:
   mainSections:
   - blog
   - essays
-
   # theme params
   DisableLanguageSwitch: true
   TocOpen: true
@@ -42,7 +41,7 @@ params:
   ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
-  Email: nico@nico.omg.lol
+  Email: nicomeemes@gmail.com
 
   socialIcons:
   - name: github-simple

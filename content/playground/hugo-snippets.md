@@ -11,7 +11,7 @@ cover:
   image: 
 socialLinks:
   twitter:
-    user: novoreorx
+    user: nicoandmee
     id: 
 ---
 
@@ -52,13 +52,13 @@ content
 ### Social quote tweet
 
 ```
-{{<social-quote-tweet id="1525875286096904192" user="novoreorx" />}}
+{{<social-quote-tweet id="1525875286096904192" user="nicoandmee" />}}
 ```
 
 ### Tweet ref (works in footnotes)
 
 ```
-{{< tweet-ref "https://twitter.com/novoreorx/status/1623978507327127553" >}}
+{{< tweet-ref "https://twitter.com/nicoandmee/status/1623978507327127553" >}}
 ```
 
 ### Standout

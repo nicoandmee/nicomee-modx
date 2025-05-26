@@ -11,6 +11,6 @@ cover:
   image: 
 socialLinks:
   twitter:
-    user: novoreorx
+    user: nicoandmee
     id: 
 ---
