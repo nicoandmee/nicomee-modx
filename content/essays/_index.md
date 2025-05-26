@@ -1,6 +1,6 @@
 ---
 title: Essays
-description: 短文，片段思想的记录
+description: My ramblings, thoughts, and ideas on life, technology, and the world.
 archivesSlug: archives
 cascade:
   - _target:
