@@ -22,7 +22,7 @@ jobs:
           hugo-version: "latest"
           extended: true
       - name: Build
-        run: hugo --minify
+        run: hugo --buildFuture --minify --environment production
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
         with:
