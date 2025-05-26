@@ -1,21 +1,76 @@
 ---
-title: 大公司为何不愿意做好用的产品？
+title:
 date: 2022-09-16T00:07:22+08:00
 draft: false
 tags:
   - product
 ---
 
-[Twitter](https://twitter.com/pengchujin/status/1570424713113120770) 上刷到 [酱紫表](https://twitter.com/pengchujin) 对百度云的咆哮:
+# Why Big Tech Companies Don't Give a Damn About You
 
-> 为什么像百度这么大的公司，百度云这么多用户的产品，高分屏的适配完全没做？完全在给用户喂💩，每次打开都恶心。
+## The Baidu Wake-Up Call
 
-因为国内大公司并不需要在意用户体验，他们的核心竞争力都是通过某种方式让你不得不用罢了。
+I stumbled across this brutal Twitter rant that perfectly captures the rage every tech user feels but rarely articulates:
 
-从投入产出比的角度来解释，多投入几个程序员/设计师优化界面几个月，可能还不如运营发布一个活动几天增长的营收多，甚至会倒贴人力成本。但这反映的也是市场的问题，国内用户对产品体验的在意程度还远远不够。
+> **"Why hasn't a big company like Baidu, with a product like Baidu Cloud that has so many users, bothered to adapt it for high-resolution screens? It's like they're force-feeding users crap; every time I open it, it's disgusting."**
 
-说到这儿，想起之前在 Dji Pocket 论坛看到的一个帖子，是关于 Pocket 在文件传输的便利性上的问题，我自己也有深刻的感受，确实很不好用。这个帖子有很高的热度，回复的用户也多是非常硬核的 Vlog 和 NAS 玩家，言辞恳请地提出了很多合理的优化建议。
+_Disgusting._ That's the word that cuts to the bone here. Not "suboptimal" or "needs improvement"—**disgusting**.
 
-但这个有着两年多历史的帖子并没有任何 Dji 员工回应。我想这是因为 Dji 知道，投入人力优化这种非核心功能，帮助很小一撮用户提升生产力，几乎不会对销量产生任何影响。Pocket 真正的核心竞争力，真正的主流用户，不在这里。
+And you know what? They're absolutely right.
 
-「这么大公司，这么多用户」也好，功能有缺陷也好，这些都不足以构成**做好用的产品**的必要条件，that's not how capital markets work.
+## The Brutal Economics of User Contempt
+
+Here's the uncomfortable truth that every product manager knows but will never admit publicly: **domestic tech giants don't need to care about user experience**.
+
+Their competitive advantage isn't built on delighting customers—it's built on creating **dependency through market dominance and ecosystem lock-in**. Once they've got you trapped in their walled garden, they can serve you garbage on a silver platter and you'll keep eating it.
+
+### The Cost-Benefit Calculus of Contempt
+
+Let's do the math that keeps executives awake at night:
+
+- **Option A**: Deploy several developers and designers for months to fix high-DPI support
+- **Option B**: Launch a quick marketing campaign that drives immediate revenue
+
+_Guess which one wins every single time?_
+
+The harsh reality is that **polishing the user interface generates zero measurable revenue** compared to aggressive user acquisition tactics. In fact, it often shows up as negative ROI on quarterly reports—the kiss of death in corporate boardrooms.
+
+But here's the part that should make us all furious: **this reflects our collective failure as consumers**. Domestic users have been systematically trained to accept mediocrity. We complain, we rant on social media, but we keep using the damn products anyway.
+
+## Exhibit B: DJI's Calculated Indifference
+
+The DJI Pocket case study reveals just how surgically precise this contempt can be.
+
+I remember that forum post about the **absolute nightmare** of transferring files from the DJI Pocket. Anyone who's tried to move footage off that device knows the pain—it's like the engineers actively tried to make it as frustrating as possible.
+
+That post **exploded** with engagement. Hardcore vloggers and NAS enthusiasts—people who actually understand workflow optimization—flooded the comments with **detailed, actionable suggestions**. These weren't casual users whining about minor inconveniences; these were power users offering free consulting on how to fix a genuinely broken experience.
+
+### Two Years of Silence
+
+**DJI's response after two years? Complete radio silence.**
+
+Not a single employee acknowledgment. Not even a form letter saying "thanks for the feedback." Just the corporate equivalent of a middle finger.
+
+Why? Because DJI's spreadsheet warriors ran the numbers and realized that **optimizing file transfer workflows would help maybe 5% of their user base** become marginally more productive. The other 95%—the Instagram weekend warriors who shoot 30-second clips—couldn't care less about efficient batch transfers.
+
+**The Pocket's core competitiveness has nothing to do with respecting power users' time.** It's about being small, affordable, and producing decent footage for social media. Everything else is noise.
+
+## The Capital Market Reality Check
+
+Here's what the motivational business books won't tell you:
+
+- ✅ **"Big company"** ≠ User-friendly products
+- ✅ **"Millions of users"** ≠ Caring about individual experience
+- ✅ **"Market dominance"** ≠ Quality improvement incentives
+
+**That's not how capital markets work, and it's not how they're designed to work.**
+
+Public companies exist to maximize shareholder value, period. User experience improvements only matter insofar as they drive measurable revenue growth or prevent churn. If you're already locked into their ecosystem and complaining but not leaving, you're essentially subsidizing their indifference.
+
+## The Uncomfortable Truth
+
+We're not customers—we're **revenue units** in a spreadsheet. And until we start acting like customers who actually have alternatives and use them, nothing will change.
+
+The rant about Baidu Cloud isn't really about high-DPI support. It's about a fundamental disrespect for users' time, intelligence, and dignity. And the most infuriating part?
+
+**They're getting away with it because we let them.**

@@ -1,7 +1,7 @@
 ---
 title: 
 slug: 
-date: YYYY-MM-DD
+date: 2024-01-01
 description:
 draft: true
 tags:
@@ -29,7 +29,7 @@ content
 
 ```
 {{<image-size-control height="600px" >}}
-![](images/foo.png)
+<!-- ![](images/foo.png) -->
 {{</image-size-control>}}
 ```
 
@@ -37,7 +37,7 @@ content
 
 ```
 {{<figure-img "content" >}}
-![](images/foo.png)
+<!-- ![](images/foo.png) -->
 {{</figure-img>}}
 ```
 
@@ -45,7 +45,7 @@ content
 
 ```
 {{<figure-img-size "content" "500px" "" >}}
-![](images/foo.png)
+<!-- ![](images/foo.png) -->
 {{</figure-img-size>}}
 ```
 

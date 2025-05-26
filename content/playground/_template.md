@@ -1,7 +1,7 @@
 ---
 title: 
 slug: 
-date: YYYY-MM-DD
+date: 2024-01-01
 description:
 draft: true
 tags:
