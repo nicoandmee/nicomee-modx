@@ -44,6 +44,8 @@ params:
   Email: nicomeemes@gmail.com
 
   socialIcons:
+  - name: pinboard-simple
+    url: "https://pinboard.in/u:nicoandmee"
   - name: github-simple
     url: "https://github.com/nicoandmee"
   - name: gitlab-simple
@@ -52,8 +54,8 @@ params:
     url: "https://twitter.com/nicoandmee"
   - name: telegram-simple
     url: "https://t.me/radiumchemist"
-  - name: cv
-    url: "https://cv.nicomee.com/"
+  - name: mdi-resume
+    url: "https://nicomee.com/resume.pdf"
   - name: stackoverflow
     url: "https://stackoverflow.com/users/6934588/nico-mee"
   - name: ycombinator
@@ -66,16 +68,16 @@ params:
     url: "https://news.ycombinator.com/user?id=nicomeemes"
   - name: rss-simple
     url: "feed.xml"
+  - name: stackoverflow-simple
+    url: "https://stackoverflow.com/users/6934588/nico-mee"
   - name: gmail
-    url: email
+    url: mailto:nicomeemes@gmail.com
+  - name: goodreads
+    url: "https://www.goodreads.com/user/show/144797700-nico-kokonas"
 
   links:
   - name: wzyboy’s blog
     url: https://wzyboy.im/
-  - name: someonegao - Human Observations
-    url: https://someonegao.com/
-    description: Blogger / Podcaster / Father of 2 sons
-    favicon: https://cdn.hashnode.com/res/hashnode/image/upload/v1650687751798/psTFDHSfP.png
 
   socialAccounts:
     twitter:
