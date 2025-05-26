@@ -1,5 +1,3 @@
-name: Deploy to Cloudflare Pages
-
 on:
   push:
     branches:
@@ -8,31 +6,15 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    name: Deploy
     permissions:
       contents: read
       deployments: write
     steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: "latest"
-          extended: true
-
-      - name: Build
-        run: hugo --buildFuture --minify --environment production
-
-      - name: Publish
-        uses: cloudflare/pages-action@1
+      - uses: actions/checkout@v4
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: blog
-          directory: public
-          # Direct Upload could not change the production branch
-          branch: main
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: pages deploy public --project-name=nicomee
