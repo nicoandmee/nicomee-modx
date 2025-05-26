@@ -1,7 +1,7 @@
 ---
 title: "Book Review: Nixon Agonistes by Garry Wills"
 slug: nixon-agonistes-review
-date: 2025-05-26T10:00:00-08:00
+date: 2025-01-22T10:00:00-08:00
 description: nixon agonistes reviews
 draft: false
 tags:

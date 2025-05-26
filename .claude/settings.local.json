@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(/opt/homebrew/Cellar/ripgrep/14.1.1/bin/rg -l '[\\u4e00-\\u9fff\\u3400-\\u4dbf]|[\\uf900-\\ufaff]' --type-add 'text:*.{md,yml,yaml,html,txt,css,js,ts}' -t text)",
+      "Bash(/opt/homebrew/Cellar/ripgrep/14.1.1/bin/rg -n '[\\u4e00-\\u9fff\\u3400-\\u4dbf]|[\\uf900-\\ufaff]' themes/PaperModX/exampleSite/config.profileMode.yml)"
     ],
     "deny": []
   }
