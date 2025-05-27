@@ -76,8 +76,11 @@ params:
     url: "https://www.goodreads.com/user/show/144797700-nico-kokonas"
 
   links:
+  - name: Julia Evans blog
+    url: https://jvns.ca/
   - name: wzyboy’s blog
-    url: https://wzyboy.im/
+    url: https://awesomekling.github.io/
+  - name: Andreas Kling blog
 
   socialAccounts:
     twitter:
